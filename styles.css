@@ -1,0 +1,50 @@
+body {
+    color: white;
+    background: rgb(30, 30, 30);
+    margin: 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 50px
+}
+
+.principal {
+    background: rgb(41, 24, 18);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.Texto-principal {
+    margin-right: 10%;
+}
+
+.mais-receitas {
+    display: flex;
+    overflow-x: auto;
+    gap: 5px;
+}
+
+.more-recepts {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
